@@ -9,6 +9,4 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-
-flutter:
+  http: ^0.13.5
